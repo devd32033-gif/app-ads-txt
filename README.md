@@ -9,4 +9,4 @@ This file is required by Google AdMob to verify authorized digital sellers and p
 [Dino Run Ultimate on Google Play](https://play.google.com/store/apps/details?id=com.aacrazyenterprises.dinorunultimate)
 
 ---
-© 2026 AACrazy Enterprises
+© 2026 aacrazy enterprises
